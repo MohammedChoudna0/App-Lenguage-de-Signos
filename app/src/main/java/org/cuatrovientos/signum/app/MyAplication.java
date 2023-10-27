@@ -2,6 +2,9 @@ package org.cuatrovientos.signum.app;
 
 import android.app.Application;
 
+import org.cuatrovientos.signum.Models.Categoria;
+import org.cuatrovientos.signum.Models.Signo;
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 import io.realm.Realm;
@@ -20,8 +23,8 @@ public class MyAplication extends Application {
 
         setUpRealmConfig();
         Realm realm = Realm.getDefaultInstance();
-        signosId = getIdByTable(realm, Pokemon.class);
-        categoriasId = getIdByTable(realm, Categorias.class);
+        signosId = getIdByTable(realm, Signo.class);
+        categoriasId = getIdByTable(realm, Categoria.class);
         realm.close();
     }
 
