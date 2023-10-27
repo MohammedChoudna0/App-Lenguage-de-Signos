@@ -1,6 +1,10 @@
 package org.cuatrovientos.signum.Models;
 
-public class Categoria {
+import io.realm.RealmObject;
+import io.realm.annotations.PrimaryKey;
+
+public class Categoria extends RealmObject {
+    @PrimaryKey
     private String id;
     private String nombre;
     private String imagen;
