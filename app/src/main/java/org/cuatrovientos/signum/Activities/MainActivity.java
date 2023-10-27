@@ -1,8 +1,10 @@
-package org.cuatrovientos.signum;
+package org.cuatrovientos.signum.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import org.cuatrovientos.signum.R;
 
 public class MainActivity extends AppCompatActivity {
 
