@@ -12,7 +12,6 @@ public class Signo extends RealmObject {
 
     private int categoriaId ;
 
-
     public Signo(int id, String titulo, String imagen, String pk) {
         this.id = id;
         this.titulo = titulo;

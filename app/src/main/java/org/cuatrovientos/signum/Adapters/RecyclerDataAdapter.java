@@ -6,16 +6,16 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class RecyclerDataAdapter2 extends RecyclerView.Adapter<RecyclerDataAdapter2.RecyclerDataHolder> {
+public class RecyclerDataAdapter extends RecyclerView.Adapter<RecyclerDataAdapter.RecyclerDataHolder> {
 
     @NonNull
     @Override
-    public RecyclerDataAdapter2.RecyclerDataHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public RecyclerDataAdapter.RecyclerDataHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         return null;
     }
 
     @Override
-    public void onBindViewHolder(@NonNull RecyclerDataAdapter2.RecyclerDataHolder holder, int position) {
+    public void onBindViewHolder(@NonNull RecyclerDataAdapter.RecyclerDataHolder holder, int position) {
 
     }
 
