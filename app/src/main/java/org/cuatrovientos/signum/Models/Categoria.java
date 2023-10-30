@@ -1,5 +1,7 @@
 package org.cuatrovientos.signum.Models;
 
+import org.cuatrovientos.signum.app.MyAplication;
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 import io.realm.RealmObject;
@@ -13,10 +15,14 @@ public class Categoria extends RealmObject {
 
     // Constructor
     public Categoria(String nombre, int imagen) {
+        this.id = MyAplication.categoriasId.incrementAndGet();
         this.nombre = nombre;
         this.imagen = imagen;
     }
 
+    public int getId() {
+        return id;
+    }
     public String getNombre() {
         return nombre;
     }
