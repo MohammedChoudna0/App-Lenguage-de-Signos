@@ -1,29 +1,20 @@
 package org.cuatrovientos.signum.Models;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;
 
 public class Categoria extends RealmObject {
     @PrimaryKey
-    private String id;
+    private int id;
     private String nombre;
-    private String imagen;
+    private int imagen;
 
     // Constructor
-    public Categoria(String id, String nombre, String imagen) {
-        this.id = id;
+    public Categoria(String nombre, int imagen) {
         this.nombre = nombre;
         this.imagen = imagen;
-    }
-
-    // Getters y setters
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 
     public String getNombre() {
@@ -34,11 +25,11 @@ public class Categoria extends RealmObject {
         this.nombre = nombre;
     }
 
-    public String getImagen() {
+    public int getImagen() {
         return imagen;
     }
 
-    public void setImagen(String imagen) {
+    public void setImagen(int imagen) {
         this.imagen = imagen;
     }
 }
