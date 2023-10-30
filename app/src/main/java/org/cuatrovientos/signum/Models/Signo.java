@@ -8,16 +8,29 @@ public class Signo extends RealmObject {
     private int id;
     private String titulo;
 
-    private int imagen;
+    private String imagen;
 
     private int categoriaId ;
 
 
-    public Signo(String titulo, int imagen) {
+    public Signo(int id, String titulo, String imagen, String pk) {
+        this.id = id;
         this.titulo = titulo;
         this.imagen = imagen;
         this.categoriaId = categoriaId ;
 
+    }
+
+
+
+    // Getters y setters
+    public int getCategoriaId() {
+        return categoriaId;
+    }
+
+    // Setter
+    public void setCategoriaId(int categoriaId) {
+        this.categoriaId = categoriaId;
     }
     public int getId() {
         return id;
@@ -36,11 +49,11 @@ public class Signo extends RealmObject {
     }
 
 
-    public int getImagen() {
+    public String getImagen() {
         return imagen;
     }
 
-    public void setImagen(int imagen) {
+    public void setImagen(String imagen) {
         this.imagen = imagen;
     }
 
