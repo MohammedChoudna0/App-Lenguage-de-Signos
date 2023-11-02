@@ -1,8 +1,6 @@
 package org.cuatrovientos.signum.Models;
 
-import org.cuatrovientos.signum.app.MyAplication;
-
-import java.util.concurrent.atomic.AtomicInteger;
+import org.cuatrovientos.signum.App.MyAplication;
 
 import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;
