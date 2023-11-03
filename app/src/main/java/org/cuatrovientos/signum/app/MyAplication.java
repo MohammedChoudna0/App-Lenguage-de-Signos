@@ -160,92 +160,244 @@ public class MyAplication extends Application {
 
             Signo adjetivosAdverbiosVerbos1 = new Signo("abajo", R.drawable.aaverbos_abajo, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos1);
-
             Signo adjetivosAdverbiosVerbos2 = new Signo("abrazar", R.drawable.aaverbos_abrazar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos2);
-
             Signo adjetivosAdverbiosVerbos3 = new Signo("aburrido", R.drawable.aaverbos_aburrido, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos3);
-
             Signo adjetivosAdverbiosVerbos4 = new Signo("acido", R.drawable.aaverbos_acido, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos4);
-
             Signo adjetivosAdverbiosVerbos5 = new Signo("adjetivos", R.drawable.aaverbos_adjetivos, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos5);
-
             Signo adjetivosAdverbiosVerbos6 = new Signo("adverbio", R.drawable.aaverbos_adverbio, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos6);
-
             Signo adjetivosAdverbiosVerbos7 = new Signo("agradable", R.drawable.aaverbos_agradable, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos7);
-
             Signo adjetivosAdverbiosVerbos8 = new Signo("alegre", R.drawable.aaverbos_alegre, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos8);
-
             Signo adjetivosAdverbiosVerbos9 = new Signo("alto", R.drawable.aaverbos_alto, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos9);
-
             Signo adjetivosAdverbiosVerbos10 = new Signo("amar", R.drawable.aaverbos_amar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos10);
-
             Signo adjetivosAdverbiosVerbos11 = new Signo("amargo", R.drawable.aaverbos_amargo, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos11);
-
             Signo adjetivosAdverbiosVerbos12 = new Signo("andar", R.drawable.aaverbos_andar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos12);
-
             Signo adjetivosAdverbiosVerbos13 = new Signo("aprender", R.drawable.aaverbos_aprender, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos13);
-
             Signo adjetivosAdverbiosVerbos14 = new Signo("arriba", R.drawable.aaverbos_arriba, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos14);
-
             Signo adjetivosAdverbiosVerbos15 = new Signo("ayudar", R.drawable.aaverbos_ayudar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos15);
-
             Signo adjetivosAdverbiosVerbos16 = new Signo("bajo", R.drawable.aaverbos_bajo, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos16);
-
             Signo adjetivosAdverbiosVerbos17 = new Signo("beber", R.drawable.aaverbos_beber, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos17);
-
             Signo adjetivosAdverbiosVerbos18 = new Signo("besar", R.drawable.aaverbos_besar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos18);
-
             Signo adjetivosAdverbiosVerbos19 = new Signo("bien", R.drawable.aaverbos_bien, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos19);
-
             Signo adjetivosAdverbiosVerbos20 = new Signo("blando", R.drawable.aaverbos_blando, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos20);
-
             Signo adjetivosAdverbiosVerbos21 = new Signo("bueno", R.drawable.aaverbos_bueno, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos21);
-
             Signo adjetivosAdverbiosVerbos22 = new Signo("caliente", R.drawable.aaverbos_caliente, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos22);
-
             Signo adjetivosAdverbiosVerbos23 = new Signo("castano", R.drawable.aaverbos_castano, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos23);
-
             Signo adjetivosAdverbiosVerbos24 = new Signo("cerca", R.drawable.aaverbos_cerca, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos24);
-
             Signo adjetivosAdverbiosVerbos25 = new Signo("claro", R.drawable.aaverbos_claro, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos25);
-
             Signo adjetivosAdverbiosVerbos26 = new Signo("comer", R.drawable.aaverbos_comer, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos26);
-
             Signo adjetivosAdverbiosVerbos27 = new Signo("comprar", R.drawable.aaverbos_comprar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos27);
-
             Signo adjetivosAdverbiosVerbos28 = new Signo("conocer", R.drawable.aaverbos_conocer, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos28);
-
             Signo adjetivosAdverbiosVerbos29 = new Signo("contar", R.drawable.aaverbos_contar, adjetivosAdverbiosVerbos.getId());
             realm.copyToRealm(adjetivosAdverbiosVerbos29);
-
-
+            Signo adjetivosAdverbiosVerbos30 = new Signo("contento", R.drawable.aaverbos_contento, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos30);
+            Signo adjetivosAdverbiosVerbos31 = new Signo("correr", R.drawable.aaverbos_correr, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos31);
+            Signo adjetivosAdverbiosVerbos32 = new Signo("cortar", R.drawable.aaverbos_cortar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos32);
+            Signo adjetivosAdverbiosVerbos33 = new Signo("crecer-planta", R.drawable.aaverbos_crecer_planta, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos33);
+            Signo adjetivosAdverbiosVerbos34 = new Signo("crecer", R.drawable.aaverbos_crecer, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos34);
+            Signo adjetivosAdverbiosVerbos35 = new Signo("debajo", R.drawable.aaverbos_debajo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos35);
+            Signo adjetivosAdverbiosVerbos36 = new Signo("delante", R.drawable.aaverbos_delante, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos36);
+            Signo adjetivosAdverbiosVerbos37 = new Signo("delgado", R.drawable.aaverbos_delgado, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos37);
+            Signo adjetivosAdverbiosVerbos38 = new Signo("dentro", R.drawable.aaverbos_dentro, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos38);
+            Signo adjetivosAdverbiosVerbos39 = new Signo("derecha", R.drawable.aaverbos_derecha, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos39);
+            Signo adjetivosAdverbiosVerbos40 = new Signo("desagradable", R.drawable.aaverbos_desagradable, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos40);
+            Signo adjetivosAdverbiosVerbos41 = new Signo("descansar", R.drawable.aaverbos_descansar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos41);
+            Signo adjetivosAdverbiosVerbos42 = new Signo("detras", R.drawable.aaverbos_detras, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos42);
+            Signo adjetivosAdverbiosVerbos43 = new Signo("diferente", R.drawable.aaverbos_diferente, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos43);
+            Signo adjetivosAdverbiosVerbos44 = new Signo("divertido", R.drawable.aaverbos_divertido, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos44);
+            Signo adjetivosAdverbiosVerbos45 = new Signo("dormir", R.drawable.aaverbos_dormir, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos45);
+            Signo adjetivosAdverbiosVerbos46 = new Signo("ducharse", R.drawable.aaverbos_ducharse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos46);
+            Signo adjetivosAdverbiosVerbos47 = new Signo("dulce (1)", R.drawable.aaverbos_dulce__1_, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos47);
+            Signo adjetivosAdverbiosVerbos48 = new Signo("dulce", R.drawable.aaverbos_dulce, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos48);
+            Signo adjetivosAdverbiosVerbos49 = new Signo("duro", R.drawable.aaverbos_duro, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos49);
+            Signo adjetivosAdverbiosVerbos50 = new Signo("encima", R.drawable.aaverbos_encima, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos50);
+            Signo adjetivosAdverbiosVerbos51 = new Signo("enfadado", R.drawable.aaverbos_enfadado, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos51);
+            Signo adjetivosAdverbiosVerbos52 = new Signo("enfermo", R.drawable.aaverbos_enfermo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos52);
+            Signo adjetivosAdverbiosVerbos53 = new Signo("entender", R.drawable.aaverbos_entender, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos53);
+            Signo adjetivosAdverbiosVerbos54 = new Signo("escribir", R.drawable.aaverbos_escribir, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos54);
+            Signo adjetivosAdverbiosVerbos55 = new Signo("esperar", R.drawable.aaverbos_esperar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos55);
+            Signo adjetivosAdverbiosVerbos56 = new Signo("explicar", R.drawable.aaverbos_explicar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos56);
+            Signo adjetivosAdverbiosVerbos57 = new Signo("feo", R.drawable.aaverbos_feo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos57);
+            Signo adjetivosAdverbiosVerbos58 = new Signo("frio", R.drawable.aaverbos_frio, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos58);
+            Signo adjetivosAdverbiosVerbos59 = new Signo("fuera", R.drawable.aaverbos_fuera, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos59);
+            Signo adjetivosAdverbiosVerbos60 = new Signo("gordo", R.drawable.aaverbos_gordo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos60);
+            Signo adjetivosAdverbiosVerbos61 = new Signo("gritar", R.drawable.aaverbos_gritar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos61);
+            Signo adjetivosAdverbiosVerbos62 = new Signo("guapo", R.drawable.aaverbos_guapo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos62);
+            Signo adjetivosAdverbiosVerbos63 = new Signo("gustar", R.drawable.aaverbos_gustar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos63);
+            Signo adjetivosAdverbiosVerbos64 = new Signo("hablar-lse", R.drawable.aaverbos_hablar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos64);
+            Signo adjetivosAdverbiosVerbos65 = new Signo("hablar-oral", R.drawable.aaverbos_hablar_oral, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos65);
+            Signo adjetivosAdverbiosVerbos66 = new Signo("igual", R.drawable.aaverbos_igual, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos66);
+            Signo adjetivosAdverbiosVerbos67 = new Signo("izquierda", R.drawable.aaverbos_izquierda, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos67);
+            Signo adjetivosAdverbiosVerbos68 = new Signo("jugar", R.drawable.aaverbos_jugar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos68);
+            Signo adjetivosAdverbiosVerbos69 = new Signo("lavar-la-cabeza", R.drawable.aaverbos_lavar_la_cabeza, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos69);
+            Signo adjetivosAdverbiosVerbos70 = new Signo("lavar-la-ropa", R.drawable.aaverbos_lavar_la_ropa, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos70);
+            Signo adjetivosAdverbiosVerbos71 = new Signo("lavar-los-dientes", R.drawable.aaverbos_lavar_los_dientes, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos71);
+            Signo adjetivosAdverbiosVerbos72 = new Signo("leer", R.drawable.aaverbos_leer, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos72);
+            Signo adjetivosAdverbiosVerbos73 = new Signo("lejos", R.drawable.aaverbos_lejos, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos73);
+            Signo adjetivosAdverbiosVerbos74 = new Signo("lento", R.drawable.aaverbos_lento, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos74);
+            Signo adjetivosAdverbiosVerbos75 = new Signo("levantarse", R.drawable.aaverbos_levantarse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos75);
+            Signo adjetivosAdverbiosVerbos76 = new Signo("limpio", R.drawable.aaverbos_limpio, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos76);
+            Signo adjetivosAdverbiosVerbos77 = new Signo("lleno", R.drawable.aaverbos_lleno, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos77);
+            Signo adjetivosAdverbiosVerbos78 = new Signo("llorar", R.drawable.aaverbos_llorar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos78);
+            Signo adjetivosAdverbiosVerbos79 = new Signo("mal", R.drawable.aaverbos_mal, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos79);
+            Signo adjetivosAdverbiosVerbos80 = new Signo("malo", R.drawable.aaverbos_malo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos80);
+            Signo adjetivosAdverbiosVerbos81 = new Signo("montar", R.drawable.aaverbos_montar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos81);
+            Signo adjetivosAdverbiosVerbos82 = new Signo("moreno", R.drawable.aaverbos_moreno, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos82);
+            Signo adjetivosAdverbiosVerbos83 = new Signo("mucho", R.drawable.aaverbos_mucho, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos83);
+            Signo adjetivosAdverbiosVerbos84 = new Signo("nacer", R.drawable.aaverbos_nacer, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos84);
+            Signo adjetivosAdverbiosVerbos85 = new Signo("no-conocer", R.drawable.aaverbos_no_conocer, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos85);
+            Signo adjetivosAdverbiosVerbos86 = new Signo("no-gustar", R.drawable.aaverbos_no_gustar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos86);
+            Signo adjetivosAdverbiosVerbos87 = new Signo("no-tener", R.drawable.aaverbos_no_tener, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos87);
+            Signo adjetivosAdverbiosVerbos88 = new Signo("oir", R.drawable.aaverbos_oir, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos88);
+            Signo adjetivosAdverbiosVerbos89 = new Signo("oler", R.drawable.aaverbos_oler, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos89);
+            Signo adjetivosAdverbiosVerbos90 = new Signo("oscuro", R.drawable.aaverbos_oscuro, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos90);
+            Signo adjetivosAdverbiosVerbos91 = new Signo("pasear", R.drawable.aaverbos_pasear, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos91);
+            Signo adjetivosAdverbiosVerbos92 = new Signo("patinar", R.drawable.aaverbos_patinar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos92);
+            Signo adjetivosAdverbiosVerbos93 = new Signo("pegar", R.drawable.aaverbos_pegar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos93);
+            Signo adjetivosAdverbiosVerbos94 = new Signo("peinarse", R.drawable.aaverbos_peinarse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos94);
+            Signo adjetivosAdverbiosVerbos95 = new Signo("pelirrojo", R.drawable.aaverbos_pelirrojo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos95);
+            Signo adjetivosAdverbiosVerbos96 = new Signo("poco", R.drawable.aaverbos_aaverbos_poco, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos96);
+            Signo adjetivosAdverbiosVerbos97 = new Signo("ponerse", R.drawable.aaverbos_ponerse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos97);
+            Signo adjetivosAdverbiosVerbos98 = new Signo("primer", R.drawable.aaverbos_primer, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos98);
+            Signo adjetivosAdverbiosVerbos99 = new Signo("quitarse", R.drawable.aaverbos_quitarse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos99);
+            Signo adjetivosAdverbiosVerbos100 = new Signo("rapido", R.drawable.aaverbos_rapido, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos100);
+            Signo adjetivosAdverbiosVerbos101 = new Signo("regalar", R.drawable.aaverbos_regalar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos101);
+            Signo adjetivosAdverbiosVerbos102 = new Signo("reir", R.drawable.aaverbos_reir, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos102);
+            Signo adjetivosAdverbiosVerbos103 = new Signo("rubio", R.drawable.aaverbos_rubio, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos103);
+            Signo adjetivosAdverbiosVerbos104 = new Signo("saborear", R.drawable.aaverbos_saborear, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos104);
+            Signo adjetivosAdverbiosVerbos105 = new Signo("salado", R.drawable.aaverbos_salado, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos105);
+            Signo adjetivosAdverbiosVerbos106 = new Signo("saltar", R.drawable.aaverbos_saltar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos106);
+            Signo adjetivosAdverbiosVerbos107 = new Signo("sano", R.drawable.aaverbos_sano, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos107);
+            Signo adjetivosAdverbiosVerbos108 = new Signo("sentarse", R.drawable.aaverbos_sentarse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos108);
+            Signo adjetivosAdverbiosVerbos109 = new Signo("sucio", R.drawable.aaverbos_sucio, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos109);
+            Signo adjetivosAdverbiosVerbos110 = new Signo("templado", R.drawable.aaverbos_templado, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos110);
+            Signo adjetivosAdverbiosVerbos111 = new Signo("tener", R.drawable.aaverbos_tener, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos111);
+            Signo adjetivosAdverbiosVerbos112 = new Signo("tocar", R.drawable.aaverbos_tocar, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos112);
+            Signo adjetivosAdverbiosVerbos113 = new Signo("triste", R.drawable.aaverbos_triste, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos113);
+            Signo adjetivosAdverbiosVerbos114 = new Signo("ultimo", R.drawable.aaverbos_ultimo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos114);
+            Signo adjetivosAdverbiosVerbos115 = new Signo("vacio", R.drawable.aaverbos_vacio, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos115);
+            Signo adjetivosAdverbiosVerbos116 = new Signo("vamos-a", R.drawable.aaverbos_vamos_a, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos116);
+            Signo adjetivosAdverbiosVerbos117 = new Signo("ver", R.drawable.aaverbos_ver, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos117);
+            Signo adjetivosAdverbiosVerbos118 = new Signo("verbo", R.drawable.aaverbos_verbo, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos118);
+            Signo adjetivosAdverbiosVerbos119 = new Signo("vestirse", R.drawable.aaverbos_vestirse, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos119);
+            Signo adjetivosAdverbiosVerbos120 = new Signo("vivir", R.drawable.aaverbos_vivir, adjetivosAdverbiosVerbos.getId());
+            realm.copyToRealm(adjetivosAdverbiosVerbos120);
             realm.commitTransaction();
             return new AtomicInteger(0);
         }
